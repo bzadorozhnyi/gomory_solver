@@ -1,6 +1,6 @@
 # Gomory solver
 
-Program find integer solution of minimazation/maximization linear function with several linear constraints (Algorithm Gomory).
+Program find integer solution of minimazation/maximization linear function with several linear constraints (Algorithm Gomory) and generate excel table with steps.
 
 ## Example
 ### Input
@@ -28,3 +28,6 @@ X*=(23, 0, 13, 44)
 ```
 
 ### Excel output
+<p align="center">
+  <img src="./images/example.png" />
+</p>
