@@ -1,6 +1,6 @@
 # Gomory solver
 
-Program find integer solution of minimazation/maximization linear function with several linear constraints (Algorithm Gomory) and generate excel table with steps.
+Finds nonnegative integer solutions to the problem of minimizing/maximizing a linear function with linear constraints by Gomory algorithm and generate excel file with step solution.
 
 ## Example
 ### Input
@@ -31,3 +31,8 @@ X*=(23, 0, 13, 44)
 <p align="center">
   <img src="./images/example.png" />
 </p>
+
+## Used in project
+* Python
+* [Fraction library](https://docs.python.org/3/library/fractions.html)
+* [openpyxl library](https://openpyxl.readthedocs.io/en/stable/)
